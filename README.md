@@ -1,2 +1,2 @@
 # desafio
-Desafio LiterAlura-Frases
+Desafio LiterAlura
