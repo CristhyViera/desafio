@@ -6,10 +6,9 @@ proporcionando al menos 5 opciones de interacción. Los libros se buscarán a tr
 
 ## Tecnologias utilizadas
 
- ![Badge en Desarollo](https://img.shields.io/badge/Spring%Boot-Java-green-Postgresql-blue)
 Spring Boot.
 Java.
-postgresql.
+Postgresql.
 
 ## Recomendaciones para su correcto funcionamiento
 
