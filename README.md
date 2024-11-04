@@ -5,10 +5,9 @@ Desarrollar un Catálogo de Libros que ofrezca interacción textual (vía consol
 proporcionando al menos 5 opciones de interacción. Los libros se buscarán a través de una API específica.
 
 ## Tecnologias utilizadas
-
-Spring Boot.
-Java.
-Postgresql.
+![Badge en Completado](https://img.shields.io/badge/Framework-SpringBoot-pink)
+![Badge en Completado](https://img.shields.io/badge/Lenguaje-Java-pink)
+![Badge en Completado](https://img.shields.io/badge/ManejadorDB-Postgresql-pink)
 
 ## Recomendaciones para su correcto funcionamiento
 
