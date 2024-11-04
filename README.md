@@ -16,4 +16,4 @@ Debes seleccionar una de las opciones presentes en el menú de inicio (1-6)
 ## Nota del estudiante: 
 Gracias equipo ONE especialmente a Genesis Rondón por toda su dedicación. Todo el material visto me motiva y me inspira a seguir adelante.
 
-![Badge en Completado](https://img.shields.io/badge/STATUS-EN%20DESAROLLO-pink)
+![Badge en Completado](https://img.shields.io/badge/Estudiante-EN%20DESAROLLO-pink)
